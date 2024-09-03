@@ -1,0 +1,9 @@
+npx create-expo-app@latest
+
+
+
+npm install expo-font axios react-native-dotenv
+
+npm install -g expo-cli
+
+expo-cli start --tunnel
